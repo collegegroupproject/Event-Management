@@ -1,4 +1,4 @@
 # Event-Management
 Event Management
 
-A software that allot the time for the event happening according to the event time and the number of participants
+A software that allots start and end time for the event according to the event duration and the number of participants
