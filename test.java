@@ -103,7 +103,7 @@ class test
 			}
 			else
 			{
-				totalParticipants += participants[i].numberOfEventParticipation;
+				totalParticipations += participants[i].numberOfEventParticipation;
 			}
 		}
 		if(totalParticipations >= 3 * 5)
